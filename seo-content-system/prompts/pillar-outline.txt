@@ -1,0 +1,18 @@
+You are a senior SEO content strategist. Create a detailed outline for a pillar blog post targeting the primary keyword: "Digital Marketing Agency in Kochi".
+
+Requirements:
+- The outline should cover all major aspects of digital marketing services available in Kochi.
+- Structure the post to naturally incorporate the following secondary keywords:
+  - SEO services Kochi
+  - Social media marketing Kochi
+  - Google Ads Kochi
+  - Content marketing Kerala
+  - Best digital marketing company Kochi
+- Include H1, H2, and H3 headings.
+- Each section should have a brief description of what will be covered.
+- Suggest word count per section.
+- Total target word count: 2500–3500 words.
+- Include suggestions for internal linking to supporting blog posts.
+- Include suggestions for external linking to authoritative sources.
+
+Output the outline in Markdown format.

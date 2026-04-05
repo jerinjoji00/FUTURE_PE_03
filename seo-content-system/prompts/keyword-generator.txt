@@ -1,0 +1,20 @@
+You are an SEO specialist. Generate a list of high-intent, low-competition keywords for a digital marketing agency based in Kochi, Kerala, India.
+
+Instructions:
+- Focus on local SEO keywords targeting Kochi and surrounding areas.
+- Include a mix of short-tail and long-tail keywords.
+- Group keywords by topic clusters (e.g., SEO, Social Media, Google Ads, Content Marketing).
+- For each keyword, provide an estimated search intent (informational, navigational, commercial, transactional).
+- Include at least 30 keywords.
+
+Output format:
+| Keyword | Search Volume (est.) | Difficulty | Intent | Cluster |
+|---------|----------------------|------------|--------|---------|
+
+Topic focus areas:
+- Digital marketing services in Kochi
+- SEO agency in Kochi
+- Social media marketing Kochi
+- Google Ads management Kochi
+- Content marketing Kerala
+- Best digital marketing company Kochi

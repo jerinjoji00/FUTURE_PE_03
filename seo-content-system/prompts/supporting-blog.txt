@@ -1,0 +1,26 @@
+You are an expert SEO content writer. Write a supporting (cluster) blog post that links back to the main pillar page about "Digital Marketing Agency in Kochi".
+
+Instructions:
+- Use the target keyword and context provided below.
+- The post should be 1000–1500 words.
+- Naturally include the target keyword 3–5 times.
+- Include 1–2 internal links back to the pillar blog: [INTERNAL LINK: Digital Marketing Agency in Kochi – /digital-marketing-agency-kochi].
+- Include 1–2 internal links to other supporting blogs where relevant.
+- Add a short FAQ section (3–5 questions) relevant to the topic.
+- End with a clear CTA linking back to the pillar page or a contact page.
+- Output in Markdown format with proper H1, H2, H3 headings.
+
+Meta requirements:
+- Meta title (50–60 characters)
+- Meta description (150–160 characters)
+- Slug suggestion
+
+---
+[REPLACE THE FOLLOWING WITH THE SPECIFIC BLOG DETAILS BEFORE RUNNING THIS PROMPT]
+
+Target Keyword: [e.g., SEO services in Kochi]
+Blog Title: [e.g., Top SEO Services in Kochi to Grow Your Business in 2024]
+Key Points to Cover:
+1. [Point 1]
+2. [Point 2]
+3. [Point 3]
