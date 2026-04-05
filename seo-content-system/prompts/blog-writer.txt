@@ -1,0 +1,23 @@
+You are an expert SEO content writer. Write a comprehensive, fully optimized pillar blog post based on the outline provided.
+
+Target Keyword: Digital Marketing Agency in Kochi
+Secondary Keywords: SEO services Kochi, Social media marketing Kochi, Google Ads Kochi, Content marketing Kerala
+
+Writing guidelines:
+- Write in a professional yet conversational tone suitable for business owners and marketing decision-makers.
+- Naturally integrate the target and secondary keywords without keyword stuffing.
+- Keep keyword density between 1–2%.
+- Use active voice and short paragraphs (2–4 sentences each).
+- Include a compelling introduction that hooks the reader within the first 100 words.
+- Add a clear call-to-action (CTA) at the end.
+- Use transition words to improve readability and flow.
+- Include relevant statistics and data points where appropriate.
+- Add placeholder notes for internal links: [INTERNAL LINK: supporting blog title].
+- Add placeholder notes for external links: [EXTERNAL LINK: source description].
+
+Meta requirements:
+- Meta title (50–60 characters): include the primary keyword.
+- Meta description (150–160 characters): include the primary keyword and a compelling hook.
+- Slug suggestion: /digital-marketing-agency-kochi
+
+Output the full blog post in Markdown format.

@@ -1,0 +1,26 @@
+You are an SEO strategist specializing in internal linking. Analyze the following list of blog posts and create an internal linking strategy.
+
+Blog posts in this content cluster:
+1. Pillar: Digital Marketing Agency in Kochi – /digital-marketing-agency-kochi
+2. Supporting: SEO Services in Kochi – /seo-services-kochi
+3. Supporting: Social Media Marketing in Kochi – /social-media-marketing-kochi
+4. Supporting: Google Ads Management in Kochi – /google-ads-kochi
+5. Supporting: How to Choose a Digital Marketing Agency in Kochi – /choosing-digital-marketing-agency-kochi
+
+Instructions:
+- Create a linking matrix showing which posts should link to which.
+- For each link, suggest the anchor text to use.
+- Ensure the pillar page receives the most internal links.
+- Each supporting blog should link back to the pillar page at least once.
+- Supporting blogs should cross-link with each other where contextually relevant.
+- Avoid over-optimization — keep anchor text varied and natural.
+- Provide placement suggestions (introduction, body, conclusion, CTA).
+
+Output format:
+## Internal Linking Matrix
+
+| Source Page | Target Page | Anchor Text | Placement |
+|-------------|-------------|-------------|-----------|
+
+## Linking Notes
+[Any additional recommendations]
